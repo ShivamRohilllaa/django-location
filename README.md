@@ -1,12 +1,12 @@
-#DjangoRestFramework Geolocation
+# DjangoRestFramework Geolocation
 
 Welcome to the DjangoRestFramework Geolocation project! 🌍✨
 
-#Overview
+# Overview
 
 This project provides a robust solution for seamlessly capturing and storing user locations during the signup process in DjangoRestFramework. Geolocation is a powerful feature, and integrating it into your application can enhance the user experience significantly.
 
-#Features
+# Features
 
 Accurate Geolocation: Easily capture and store precise user locations during the signup process.
 Simple Integration: Effortlessly implement this code snippet to enrich your application with geolocation capabilities.
